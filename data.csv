@@ -1,4 +1,9 @@
 
+<<<<<<< HEAD
 Unix,1,free,1970,GIT Version,https://git-scm.com/,--distributed-is-the-new-centralized,Community
 Linux,1,free,1991,Github repository,https://github.com/,Start a new repository,Commnity
 Ubuntu,1,free,2004,Github repository,https://github.com/,Start a new repository,Commnity
+=======
+GIT,1,free,2005,GIT Version,https://git-scm.com/,--distributed-is-the-new-centralized,Community
+gitHub,1,free,2005,Github repository,https://github.com/,Start a new repository,Commnity
+>>>>>>> python
